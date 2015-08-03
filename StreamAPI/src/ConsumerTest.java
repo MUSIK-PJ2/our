@@ -25,6 +25,8 @@ public class ConsumerTest {
 		strcon.accept("str");
 		intcon.accept(4);
 		
+
+		
 		
 		//Supplier 인터페이스 
 		//매개변수가 없고 리턴값이 있다.
